@@ -1,8 +1,4 @@
-![Polycade.com](https://i.imgur.com/jcvsFKh.png)
-
----
-
-# Polycade Engineering Node.js REST API Challenge
+# Node.js Engineer REST API Challenge
 
 Our apps need to query and store lots of information. We want to make sure that you have a good understanding of JavaScript and Node.js fundamentals. Can you build a simple API that can read data from and write data to a PostgreSQL database with Node.js?
 
